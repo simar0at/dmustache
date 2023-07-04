@@ -86,3 +86,6 @@ _FOSSIL_
 
 backup/
 .idea/
+*.trc
+*.dbg
+lib
